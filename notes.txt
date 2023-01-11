@@ -13,3 +13,7 @@ animal
 
 Question 2 : 
 Disponibilité Intérieure = Production + Importation - exportation + Variation = Aliments + Autres + Nourriture + Pertes + Semences + Traitements 
+
+cohérence : ratio = dispo_alim(kcal/personne/jour) * 365/dispo_alim en quantité(kg/personne/an)
+comparer avec valeur calorique d'un oeuf pour 100gr 
+*10 (conversion en kg)
