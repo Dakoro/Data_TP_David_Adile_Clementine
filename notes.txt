@@ -1,0 +1,15 @@
+Analyse univarié
+population 
+    - unité = 1000 habitants
+    - variable quantitative discrète
+vegetal
+    - Element : variable qualitative nominale
+    - produit : variable qualitative nominale
+    - Valeur : Valeur quantitative discrète
+animal
+    - Element : variable qualitative nominale
+    - Produit : varialble qualitative nominale
+    - Valeur : valeur quantitative discrète
+
+Question 2 : 
+Disponibilité Intérieure = Production + Importation - exportation + Variation = Aliments + Autres + Nourriture + Pertes + Semences + Traitements 
